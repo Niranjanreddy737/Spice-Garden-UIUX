@@ -29,4 +29,4 @@ Spice Garden is a restaurant website designed to help users explore menus, learn
 - Contact Information
 
 ## Prototype Link
-https://www.figma.com/proto/ud9WjNWqimwHxjMAxjWAaD/restaurent-project-real?node-id=0-1&t=Lb12fgD7QBZgQaj7-1
+https://www.figma.com/proto/ud9WjNWqimwHxjMAxjWAaD/restaurent-project-real?node-id=7-68&t=SpOmPJOauQdumyHX-1&scaling=min-zoom&content-scaling=fixed&page-id=3%3A15&starting-point-node-id=7%3A68
